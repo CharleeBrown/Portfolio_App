@@ -18,7 +18,8 @@
     "express-validator": "^6.13.0",
     "nodemon": "^2.0.13",
     "pug": "^3.0.2",
-    "sass": "^1.43.2"
+    "sass": "^1.43.2",
+    "webpack": "^5.58.2"
   },
   "engines": {
     "node": ">=14.0.0",
